@@ -6,4 +6,6 @@
     <!--工厂方法模式配置部分-->
     <className>FactoryMethodPattern.FileLoggerFactory</className>
 
+    <!--抽象工厂模式配置部分-->
+    <AbstractFactoryClassName>AbstractFactoryPattern.SpringSkinFactory</AbstractFactoryClassName>
 </config>
