@@ -1,4 +1,9 @@
 <?xml version="1.0"?>
 <config>
+    <!--简单工厂模式配置部分-->
     <chartType>histogram</chartType>
+
+    <!--工厂方法模式配置部分-->
+    <className>FactoryMethodPattern.FileLoggerFactory</className>
+
 </config>
