@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <subClass>TemplateMethodPattern.CurrentAccount</subClass>
+</config>
