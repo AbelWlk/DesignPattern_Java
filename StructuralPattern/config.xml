@@ -9,4 +9,7 @@
     <!--ConcreteImplementor-->
     <BridgeClassName>BridgePattern.WindowsImp</BridgeClassName>
 
+    <!--代理模式配置文件-->
+    <ProxyClassName>ProxyPattern.ProxySearcher</ProxyClassName>
+
 </config>
