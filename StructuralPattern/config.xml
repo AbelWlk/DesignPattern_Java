@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <!--适配器模式配置文件-->
+    <AdapterClassName>AdapterPattern.OperationAdapter</AdapterClassName>
+</config>

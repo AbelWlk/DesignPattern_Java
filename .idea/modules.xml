@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CreationalPattern/CreationalPattern.iml" filepath="$PROJECT_DIR$/CreationalPattern/CreationalPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern_Java.iml" filepath="$PROJECT_DIR$/DesignPattern_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPattern/StructuralPattern.iml" filepath="$PROJECT_DIR$/StructuralPattern/StructuralPattern.iml" />
     </modules>
   </component>
 </project>
