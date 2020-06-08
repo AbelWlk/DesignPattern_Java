@@ -8,4 +8,7 @@
 
     <!--抽象工厂模式配置部分-->
     <AbstractFactoryClassName>AbstractFactoryPattern.SpringSkinFactory</AbstractFactoryClassName>
+
+    <!--建造者模式配置部分-->
+    <ActorBuilder>BuilderPattern.AngelBuilder</ActorBuilder>
 </config>
